@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShekleinAleksey
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning REST API
+- 🌱 I’m currently learning PHP
 
 <!---
 ShekleinAleksey/ShekleinAleksey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
